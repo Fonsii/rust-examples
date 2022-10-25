@@ -16,7 +16,7 @@ Open the folder repository, each folder is an example
 
 Now, install rust
 
-    in https://www.rust-lang.org/tools/install 
+    https://www.rust-lang.org/tools/install 
 
 Run the code and have fun!
 

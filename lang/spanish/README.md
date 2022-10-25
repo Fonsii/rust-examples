@@ -16,7 +16,7 @@ Abrir folder del repositorio, cada folder dentro de este es un ejemplo diferente
 
 Instalar rust
 
-    en https://www.rust-lang.org/tools/install
+    https://www.rust-lang.org/tools/install
 
 Ahora se puede correr el código y divertirse!
 
